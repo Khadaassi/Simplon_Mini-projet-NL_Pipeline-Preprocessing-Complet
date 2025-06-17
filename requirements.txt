@@ -1,0 +1,4 @@
+nltk==3.9.1
+pandas==2.3.0
+inflect==7.0.0
+textblob
